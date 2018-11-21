@@ -51,7 +51,7 @@ Then, the output of the program should be:
 [[0, 0, 0, 0, 0], [0, 1, 2, 3, 4], [0, 2, 4, 6, 8]] 
 """
 
-x, y = 3, 5
+x, y = 10, 10
 array = []
 for i in range(x):
     array.append([i * j for j in range(y)])
