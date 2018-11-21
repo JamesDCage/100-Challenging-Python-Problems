@@ -72,9 +72,7 @@ for row in range(rowNum):
 
 print multilist
 
-"""
 
-"""
 My thoughts:
 
 Getting past the raw input stuff, mine is a bit more compact. 
