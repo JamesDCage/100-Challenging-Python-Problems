@@ -77,6 +77,6 @@ My thoughts:
 
 Getting past the raw input stuff, mine is a bit more compact. 
 Interesting double-list comprehension to initialize blank array.
-Problem description is weird, as usual. I think of x as number of 
+Problem description is a bit counter-intuitive. I think of x as number of 
 columns and y as number of rows, as just one example.
 """
